@@ -1,1 +1,2 @@
 ttt.txt 생서완료
+ttt.txt를 다시작성
