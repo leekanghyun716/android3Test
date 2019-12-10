@@ -1,2 +1,3 @@
 ttt.txt 생서완료
 ttt.txt 다시 작성함sub
+ttt.txt를 다시작성
