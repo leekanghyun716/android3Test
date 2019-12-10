@@ -6,7 +6,6 @@ public class Hello extends AppcompactActivity{
         }
 	public void m_one(){
         Log.d("TAG","one");
-	}public void m_two(){
-	Log.d("TAG","two");
+
    	}
 }
